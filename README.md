@@ -2,7 +2,6 @@
 
 An interactive web application for visualizing data structures and algorithms to enhance learning and understanding of computer science concepts.
 
-![Data Structure Visualization](https://github.com/Sargamchicholikar/D_S_V/raw/main/IMAGES/header-image.png)
 
 ## 📖 Overview
 
